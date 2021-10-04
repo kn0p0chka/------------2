@@ -1,0 +1,27 @@
+.card {
+  height: 500px;
+  width: 350px;
+  padding-left: 5px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+
+.img {
+  display: block;
+  margin: auto;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 30px;
+  margin: 0;
+}
+
+.p {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 20px;
+}
